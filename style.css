@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background-color:pink; 
+}
+.header{
+    width: 80%;
+    font-size: 22px;
+}
+.objects{
+    color:yellow;
+}
+#result_object_accuracy, #result_object_name{
+    color:yellow;
+} 
